@@ -6,7 +6,7 @@ Easily shorten URLs, track clicks, and analyze traffic — all from a clean UI. 
 ---
 
 <p align="center">
-  <img src="assets/demo.png" alt="App Preview" width="600"/>
+  <img src="assets/demo.png" alt="App Preview" width="900"/>
 </p>
 
 ---
